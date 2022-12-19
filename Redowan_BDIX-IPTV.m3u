@@ -1,0 +1,113 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="Sports", Adsports1
+http://15.1.1.34:8282/Adsports1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Adsports2
+http://15.1.1.34:8282/Adsports2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", PTV SPORTS
+http://15.1.1.10:8282/PTV-SPORTS/tracks-v1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", STAR SPORTS 1
+http://15.1.1.10:8282/STAR-SPORTS-1/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", STAR SPORTS 2
+http://15.1.1.10:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Star Sport Select1 HD
+http://15.1.1.34:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Star Sport Select2 HD
+http://15.1.1.10:8282/select2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Sony six
+http://15.1.1.34:8282/sony-six-hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", TSPORTS HD
+http://15.1.1.38:8282/en3-37/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", TSPORTS
+http://15.1.1.38:8282/1LIVE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", TSPORTS
+http://15.1.1.34:8282/TSPORTS-HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Sony Ten1 HD
+http://15.1.1.34:8282/ten1-hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Sony Ten2
+http://15.1.1.34:8282/sony-ten2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Sony Ten3
+http://15.1.1.34:8282/ten3/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Sports", Dubai Racing
+http://15.1.1.10:8282/tv13/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="English", Aljazeera
+http://15.1.1.38:8282/Aljazeera/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="English", Cgtn News
+http://15.1.1.10:8282/Cgtn-News/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="English", Discovery
+http://15.1.1.10:8282/discovery-kid/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Channel 24
+http://15.1.1.10:8282/Channel24/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", AsianTV
+http://15.1.1.10:8282/AsianTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Sony Pix HD
+http://15.1.1.10:8282/sony-pix-hd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", BanglaTv
+http://15.1.1.38:8282/bangla-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Channel I
+http://15.1.1.34:8282/Channel-i/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", DBC NEWS
+http://15.1.1.34:8282/DBC-NEWS/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Independent Tv
+http://15.1.1.34:8282/Independent-Tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Ekattor Tv
+http://15.1.1.10:8282/Ekattor-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Sony TV HD
+http://15.1.1.10:8282/SonyTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Star Jalsha
+http://15.1.1.10:8282/jalsha/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", MohonaTV
+http://15.1.1.38:8282/MohonaTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", News24
+http://15.1.1.10:8282/News24bd/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Colors
+http://15.1.1.10:8282/colorsindia/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Boishakhi
+http://15.1.1.34:8282/Boishakhi/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Sony Aath
+http://15.1.1.38:8282/Sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Sony SUB
+http://15.1.1.34:8282/SONY-SUB/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", BanglaVision
+http://15.1.1.38:8282/BanglaVision/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", MyTV
+http://15.1.1.38:8282/MyTV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", ATN MUSIC
+http://15.1.1.38:8282/ATN-MUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", GaanBangla
+http://15.1.1.10:8282/GaanBangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Ntv
+http://15.1.1.38:8282/Ntv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Somoy TV
+http://15.1.1.34:8282/Somoy-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Zee Bangla
+http://15.1.1.34:8282/zee-bangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", ZeeCinema HD
+http://15.1.1.34:8282/ZeeCinemaHD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", Sony Max
+http://15.1.1.10:8282/Sony-Max/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Anando Tv
+http://15.1.1.38:8282/anandotv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Jamuna Tv
+http://15.1.1.38:8282/jamuna-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Ekushey TV
+http://15.1.1.38:8282/Ekushey-TV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Atn News
+http://15.1.1.34:8282/Atn-News/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", 9XM
+http://15.1.1.10:8282/9XM/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Hindi", 9XM Jalwa
+http://15.1.1.10:8282/it-care-9xm-jalwa/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Nagorik Tv
+http://15.1.1.38:8282/nagorik-tv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", SATV
+http://15.1.1.10:8282/SATV/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Maasranga
+http://15.1.1.34:8282/maasranga/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Btv World
+http://15.1.1.38:8282/btv-world/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", Btv
+http://15.1.1.10:8282/btv/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", ATN Bangla
+http://15.1.1.34:8282/ATN-Bangla/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="" group-title="Bangladesh", RTV
+http://15.1.1.38:8282/RTV/tracks-v1/mono.m3u8
