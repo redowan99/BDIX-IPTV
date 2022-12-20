@@ -13,7 +13,7 @@ http://15.1.1.10:8282/STAR-SPORTS-2/tracks-v1a1/mono.m3u8
 http://15.1.1.34:8282/Star_Sport_Select1HD/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports", Star Sport Select2 HD
 http://15.1.1.10:8282/select2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="" group-title="Hindi", Sony six
+#EXTINF:0 tvg-logo="" group-title="Sports", Sony Sports 5
 http://15.1.1.34:8282/sony-six-hd/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="" group-title="Sports", TSPORTS HD
 http://15.1.1.38:8282/en3-37/tracks-v1a1/mono.m3u8
